@@ -24,7 +24,7 @@ function install_edges() {
 
 	case "$1" in
 		"admin")
-			TAR_URL="https://static-file-global.353355.xyz/goedge/edge-admin-linux-${GOARCH}-plus-v${VERSION}.zip"
+			TAR_URL="https://443.hk/goedge/edge-admin-linux-${GOARCH}-plus-v${VERSION}.zip"
 			TAR_FILE="edge-admin-linux-${GOARCH}-plus-v${VERSION}.zip"
 
 			mv /build/run_admin.sh ${ROOT_DIR}/run.sh
