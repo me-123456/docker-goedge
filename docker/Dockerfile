@@ -1,5 +1,5 @@
 FROM alpine:latest
-LABEL maintainer="icodex@msn.com"
+LABEL maintainer="bageyalu8@gmail.com"
 ENV TZ="Asia/Shanghai"
 ENV ROOT_DIR=/usr/local/goedge
 
